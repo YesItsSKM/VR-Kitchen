@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: dc3148eda004a4448bdc5771a358db54
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CabinetBase010
+    100002: //RootNode
+    100004: Countertop
+    100006: DrawerShaker013
+    100008: DrawerShaker014
+    100010: DrawerShaker015
+    100012: DrawerShaker016
+    100014: RusticCollectionPull05
+    100016: RusticCollectionPull06
+    100018: RusticCollectionPull07
+    100020: RusticCollectionPull08
+    400000: CabinetBase010
+    400002: //RootNode
+    400004: Countertop
+    400006: DrawerShaker013
+    400008: DrawerShaker014
+    400010: DrawerShaker015
+    400012: DrawerShaker016
+    400014: RusticCollectionPull05
+    400016: RusticCollectionPull06
+    400018: RusticCollectionPull07
+    400020: RusticCollectionPull08
+    2100000: GraniteSlab
+    2100002: Walnut_Wood
+    2100004: Bronze
+    2300000: CabinetBase010
+    2300002: Countertop
+    2300004: DrawerShaker013
+    2300006: DrawerShaker014
+    2300008: DrawerShaker015
+    2300010: DrawerShaker016
+    2300012: RusticCollectionPull05
+    2300014: RusticCollectionPull06
+    2300016: RusticCollectionPull07
+    2300018: RusticCollectionPull08
+    3300000: CabinetBase010
+    3300002: Countertop
+    3300004: DrawerShaker013
+    3300006: DrawerShaker014
+    3300008: DrawerShaker015
+    3300010: DrawerShaker016
+    3300012: RusticCollectionPull05
+    3300014: RusticCollectionPull06
+    3300016: RusticCollectionPull07
+    3300018: RusticCollectionPull08
+    4300000: Countertop
+    4300002: CabinetBase010
+    4300004: RusticCollectionPull07
+    4300006: RusticCollectionPull06
+    4300008: RusticCollectionPull08
+    4300010: RusticCollectionPull05
+    4300012: DrawerShaker015
+    4300014: DrawerShaker014
+    4300016: DrawerShaker016
+    4300018: DrawerShaker013
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronze
+    second: {fileID: 2100000, guid: 2ba9850a0442220489bf39e37eb319e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GraniteSlab
+    second: {fileID: 2100000, guid: e8fb926b0553b294f8e139134014ff0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walnut_Wood
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

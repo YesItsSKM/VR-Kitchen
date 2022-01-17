@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 48b0bc8be2e7b164d9cc99f364bbfc78
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CabinetBase017
+    100002: CabinetBase08
+    100004: CabinetBase09
+    100006: CabinetBaseEndCap08
+    100008: CooktopGas
+    100010: CounterIsland
+    100012: DoorArched010
+    100014: DoorArched011
+    100016: DoorArched013
+    100018: DoorArched09
+    100020: DoorRaised08
+    100022: DrawerRaised012
+    100024: DrawerRaised018
+    100026: DrawerRaised019
+    100028: DrawerRaised05
+    100030: DrawerRaised06
+    100032: //RootNode
+    100034: RusticCollectionKnob011
+    100036: RusticCollectionKnob012
+    100038: RusticCollectionKnob014
+    100040: RusticCollectionKnob015
+    100042: RusticCollectionKnob06
+    100044: RusticCollectionPull010
+    100046: RusticCollectionPull011
+    100048: RusticCollectionPull012
+    100050: RusticCollectionPull013
+    100052: RusticCollectionPull014
+    400000: CabinetBase017
+    400002: CabinetBase08
+    400004: CabinetBase09
+    400006: CabinetBaseEndCap08
+    400008: CooktopGas
+    400010: CounterIsland
+    400012: DoorArched010
+    400014: DoorArched011
+    400016: DoorArched013
+    400018: DoorArched09
+    400020: DoorRaised08
+    400022: DrawerRaised012
+    400024: DrawerRaised018
+    400026: DrawerRaised019
+    400028: DrawerRaised05
+    400030: DrawerRaised06
+    400032: //RootNode
+    400034: RusticCollectionKnob011
+    400036: RusticCollectionKnob012
+    400038: RusticCollectionKnob014
+    400040: RusticCollectionKnob015
+    400042: RusticCollectionKnob06
+    400044: RusticCollectionPull010
+    400046: RusticCollectionPull011
+    400048: RusticCollectionPull012
+    400050: RusticCollectionPull013
+    400052: RusticCollectionPull014
+    2100000: Walnut_Wood
+    2100002: Bronze_Rubbed1
+    2100004: GraniteSlab
+    2100006: Steel
+    2100008: StainlessSteele
+    2300000: CabinetBase017
+    2300002: CabinetBase08
+    2300004: CabinetBase09
+    2300006: CabinetBaseEndCap08
+    2300008: CooktopGas
+    2300010: CounterIsland
+    2300012: DoorArched010
+    2300014: DoorArched011
+    2300016: DoorArched013
+    2300018: DoorArched09
+    2300020: DoorRaised08
+    2300022: DrawerRaised012
+    2300024: DrawerRaised018
+    2300026: DrawerRaised019
+    2300028: DrawerRaised05
+    2300030: DrawerRaised06
+    2300032: RusticCollectionKnob011
+    2300034: RusticCollectionKnob012
+    2300036: RusticCollectionKnob014
+    2300038: RusticCollectionKnob015
+    2300040: RusticCollectionKnob06
+    2300042: RusticCollectionPull010
+    2300044: RusticCollectionPull011
+    2300046: RusticCollectionPull012
+    2300048: RusticCollectionPull013
+    2300050: RusticCollectionPull014
+    3300000: CabinetBase017
+    3300002: CabinetBase08
+    3300004: CabinetBase09
+    3300006: CabinetBaseEndCap08
+    3300008: CooktopGas
+    3300010: CounterIsland
+    3300012: DoorArched010
+    3300014: DoorArched011
+    3300016: DoorArched013
+    3300018: DoorArched09
+    3300020: DoorRaised08
+    3300022: DrawerRaised012
+    3300024: DrawerRaised018
+    3300026: DrawerRaised019
+    3300028: DrawerRaised05
+    3300030: DrawerRaised06
+    3300032: RusticCollectionKnob011
+    3300034: RusticCollectionKnob012
+    3300036: RusticCollectionKnob014
+    3300038: RusticCollectionKnob015
+    3300040: RusticCollectionKnob06
+    3300042: RusticCollectionPull010
+    3300044: RusticCollectionPull011
+    3300046: RusticCollectionPull012
+    3300048: RusticCollectionPull013
+    3300050: RusticCollectionPull014
+    4300000: CabinetBase09
+    4300002: RusticCollectionKnob06
+    4300004: CabinetBase017
+    4300006: CounterIsland
+    4300008: RusticCollectionKnob011
+    4300010: RusticCollectionKnob012
+    4300012: CabinetBase08
+    4300014: CooktopGas
+    4300016: RusticCollectionKnob014
+    4300018: RusticCollectionKnob015
+    4300020: DoorArched09
+    4300022: DoorArched011
+    4300024: DoorArched010
+    4300026: DoorRaised08
+    4300028: DoorArched013
+    4300030: DrawerRaised012
+    4300032: DrawerRaised019
+    4300034: DrawerRaised05
+    4300036: DrawerRaised06
+    4300038: DrawerRaised018
+    4300040: RusticCollectionPull010
+    4300042: RusticCollectionPull014
+    4300044: RusticCollectionPull013
+    4300046: RusticCollectionPull012
+    4300048: RusticCollectionPull011
+    4300050: CabinetBaseEndCap08
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronze_Rubbed1
+    second: {fileID: 2100000, guid: 72877488eb9cdd749846a67488b3e16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GraniteSlab
+    second: {fileID: 2100000, guid: e8fb926b0553b294f8e139134014ff0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StainlessSteele
+    second: {fileID: 2100000, guid: c4a0d2c8a087ac64c81fcf3479993589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 39ab801c7083b6644bfe1c6251bb5b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walnut_Wood
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

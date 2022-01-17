@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 8ead59e486e966c44b60ca0608b400d8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BucketLights
+    100002: Ceiling
+    100004: ExteriorWall
+    100006: Interior
+    100008: //RootNode
+    100010: Windowframe
+    100012: WindowGlass2
+    100014: WindowGlass3
+    100016: WindowGlass4
+    100018: WindowGlass5
+    100020: WindowGlass6
+    100022: WindowGlass7
+    100024: Windows
+    100026: Windows 1
+    400000: BucketLights
+    400002: Ceiling
+    400004: ExteriorWall
+    400006: Interior
+    400008: //RootNode
+    400010: Windowframe
+    400012: WindowGlass2
+    400014: WindowGlass3
+    400016: WindowGlass4
+    400018: WindowGlass5
+    400020: WindowGlass6
+    400022: WindowGlass7
+    400024: Windows
+    400026: Windows 1
+    2100000: Wall_Paint
+    2100002: Ceiling_Paint
+    2100004: White_Plastic
+    2100006: Lit_Bulb
+    2100008: White_Paint
+    2100010: Glass
+    2100012: Wood_Tile
+    2300000: BucketLights
+    2300002: Ceiling
+    2300004: ExteriorWall
+    2300006: Interior
+    2300008: Windowframe
+    2300010: WindowGlass2
+    2300012: WindowGlass3
+    2300014: WindowGlass4
+    2300016: WindowGlass5
+    2300018: WindowGlass6
+    2300020: WindowGlass7
+    2300022: Windows
+    3300000: BucketLights
+    3300002: Ceiling
+    3300004: ExteriorWall
+    3300006: Interior
+    3300008: Windowframe
+    3300010: WindowGlass2
+    3300012: WindowGlass3
+    3300014: WindowGlass4
+    3300016: WindowGlass5
+    3300018: WindowGlass6
+    3300020: WindowGlass7
+    3300022: Windows
+    4300000: ExteriorWall
+    4300002: Ceiling
+    4300004: BucketLights
+    4300006: Windows
+    4300008: Windowframe
+    4300010: WindowGlass2
+    4300012: WindowGlass3
+    4300014: WindowGlass4
+    4300016: WindowGlass5
+    4300018: WindowGlass6
+    4300020: WindowGlass7
+    4300022: Interior
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Paint
+    second: {fileID: 2100000, guid: b558c721dad7b724c8b6a89035144bf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 7c92831ace1b0994eaeaf39b51793a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lit_Bulb
+    second: {fileID: 2100000, guid: 25179d6f39eaccc498074068e9859149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Paint
+    second: {fileID: 2100000, guid: 62640778827c34340a266384af489212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Paint
+    second: {fileID: 2100000, guid: 8a2e44ce56a25d94ca629499f552ac6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Plastic
+    second: {fileID: 2100000, guid: e140ca79a3b39a0499b26f75646fd644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Tile
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

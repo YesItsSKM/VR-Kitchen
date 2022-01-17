@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 04c86e0e4e0621c46b04f0249819d8ee
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CabinetBase011
+    100002: //RootNode
+    100004: Countertop
+    100006: DoorArched03
+    100008: DoorArched04
+    100010: DrawerShaker009
+    100012: DrawerShaker012
+    100014: RusticCollectionKnob02
+    100016: RusticCollectionKnob03
+    100018: RusticCollectionPull03
+    100020: RusticCollectionPull04
+    400000: CabinetBase011
+    400002: //RootNode
+    400004: Countertop
+    400006: DoorArched03
+    400008: DoorArched04
+    400010: DrawerShaker009
+    400012: DrawerShaker012
+    400014: RusticCollectionKnob02
+    400016: RusticCollectionKnob03
+    400018: RusticCollectionPull03
+    400020: RusticCollectionPull04
+    2100000: Walnut_Wood
+    2100002: Bronze
+    2100004: GraniteSlab
+    2300000: CabinetBase011
+    2300002: Countertop
+    2300004: DoorArched03
+    2300006: DoorArched04
+    2300008: DrawerShaker009
+    2300010: DrawerShaker012
+    2300012: RusticCollectionKnob02
+    2300014: RusticCollectionKnob03
+    2300016: RusticCollectionPull03
+    2300018: RusticCollectionPull04
+    3300000: CabinetBase011
+    3300002: Countertop
+    3300004: DoorArched03
+    3300006: DoorArched04
+    3300008: DrawerShaker009
+    3300010: DrawerShaker012
+    3300012: RusticCollectionKnob02
+    3300014: RusticCollectionKnob03
+    3300016: RusticCollectionPull03
+    3300018: RusticCollectionPull04
+    4300000: CabinetBase011
+    4300002: RusticCollectionPull03
+    4300004: RusticCollectionPull04
+    4300006: RusticCollectionKnob03
+    4300008: RusticCollectionKnob02
+    4300010: DoorArched04
+    4300012: DoorArched03
+    4300014: DrawerShaker012
+    4300016: DrawerShaker009
+    4300018: Countertop
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Cubemap
+      assembly: UnityEngine.CoreModule
+      name: diffuse_cube
+    second: {fileID: 8900000, guid: 510f0f6073f14244b8de2edaf7cd72ea, type: 3}
+  - first:
+      type: UnityEngine:Cubemap
+      assembly: UnityEngine.CoreModule
+      name: specular_cube
+    second: {fileID: 8900000, guid: d46748a6eb8bbe14d934dabfb5a90ed4, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronze
+    second: {fileID: 2100000, guid: 2ba9850a0442220489bf39e37eb319e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GraniteSlab
+    second: {fileID: 2100000, guid: e8fb926b0553b294f8e139134014ff0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walnut_Wood
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GraniteAL
+    second: {fileID: 2800000, guid: 7930f1d41e4b9dc4499f96fa0a0f32ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodCherryNR
+    second: {fileID: 2800000, guid: eb7473980e4fd7d4abd3b1053d0c43f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodWalnutAL
+    second: {fileID: 2800000, guid: d450652082cbd2749b85e55f18aa6404, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodWalnutME
+    second: {fileID: 2800000, guid: 43f7c55aeef9daf4fb46ec1d73118324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodWalnutRO
+    second: {fileID: 2800000, guid: 4d4842fb90c8d9843af590de3a1cbf67, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
